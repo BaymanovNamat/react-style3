@@ -10,14 +10,13 @@ function NavBar(props) {
 
   const linkList = link.map((link) => (
 
-    <nav>
+    
       <li>
-
         <a href={link.link}>
           {link.name}
         </a>
       </li>
-    </nav>
+
   ));
 
   return (
