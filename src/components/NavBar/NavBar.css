@@ -1,0 +1,13 @@
+.NavBar {
+  display: flex;
+}
+.inlines {
+  display: flex;
+  gap: 25px;
+}
+
+
+
+.between {
+  flex-grow: 1;
+}
